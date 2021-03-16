@@ -29,7 +29,7 @@
 - cv2<br/>
 &nbsp;- OpenCV는 일반적으로 객체, 얼굴 및 모션 추적, 행동 인식 등의 프로그램에서 사용되는 모듈입니다.<br/>
 &nbsp;- 인스타그램, 그리고 Gmail로부터 'No module named cv2'라는 메세지가 기록되며 안된다는 말씀을 하셔서 방법을 알려드리겠습니다.<br/>
-&nbsp;- cv2같은 경우는, 'pip install opencv-python'을 해주셔야 설치가 되고 사용이 가능해집니다.
+&nbsp;- cv2같은 경우는, 'pip install opencv-python'을 해주셔야 설치가 되고 사용이 가능해집니다.<
 &nbsp;- 이렇게 하시면, 오류를 해결하실 수 있으실 겁니다.<br/>
 - argparse<br/>
 &nbsp;- argparse 같은 경우는, 도움말과 사용 방법에 대하여 자동으로 문구를 생성하고, 이용자가 프로그램에 잘못된 인자를 입력했을 경우 에러를 발생시킵니다.<br/>
